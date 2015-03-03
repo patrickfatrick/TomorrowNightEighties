@@ -103,14 +103,16 @@
 .CodeMirror-foldgutter-blank {
   text-align: center;
   width: 100%;
+}
 
-  &::after {
+.CodeMirror-foldgutter-open,
+.CodeMirror-foldgutter-folded,
+.CodeMirror-foldgutter-blank::after {
     position: relative;
     top: 0.0625em;
     font-size: 1em;
     color: rgba(255, 255, 255, 0.33);
   }
-}
 
 .CodeMirror-foldmarker {
   display: inline-block;
@@ -119,13 +121,13 @@
   border: 0;
   color: rgba(255, 255, 255, 0.66);
   background-color: rgba(255, 255, 255, 0.16);
+}
 
-  &::after {
+.CodeMirror-foldmarker::after {
     content: '\2022\2022\2022';
     position: relative;
     top: -0.0625em;
   }
-}
 
 /* CSS Color Preview */
 
