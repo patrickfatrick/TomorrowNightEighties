@@ -3,7 +3,7 @@
 
 [Chris Kempson's Tomorrow Night](https://github.com/chriskempson/tomorrow-theme) theme for Brackets.
 
-This is itself based on Ryan Stewart's [Tomorrow Night theme for Brackets](https://github.com/Brackets-Themes/TomorrowNight). I just switched out the colors :P
+This is itself based on Ryan Stewart's [Tomorrow Night theme for Brackets](https://github.com/Brackets-Themes/TomorrowNight).
 
 For more themes and install instructions see the [Brackets Themes website](http://brackets-themes.github.io/)
 
