@@ -2,12 +2,12 @@
     "title": "Tomorrow Night Eighties",
     "name": "tomorrow-night-eighties",
     "description": "Tomorrow Night Eighties theme for Brackets",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": "Patrick Fricano <patrick.fricano@icloud.com> (http://github.com/patrickfatrick)",
-    "homepage": "",
+    "homepage": "https://github.com/patrickfatrick/TomorrowNightEighties",
     "repository": {
         "type": "git",
-        "url": "https://github.com/patrickfatrick/TomorrowNightEighties"
+        "url": "git@github.com/patrickfatrick/TomorrowNightEighties.git"
     },
     "engines": {
         "brackets": ">=0.42.0"
