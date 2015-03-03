@@ -7,7 +7,7 @@
     "homepage": "",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/patrickfatrick/TomorrowNightEighties"
     },
     "engines": {
         "brackets": ">=0.42.0"
@@ -16,5 +16,5 @@
         "file": "tomorrow-night-eighties.css",
         "dark": true
     },
-    "screenshot": "tomorrow-night-screenshot-css.png"
+    "screenshot": "tomorrow-night-eighties-css.tiff"
 }
