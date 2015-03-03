@@ -1,7 +1,7 @@
 ![Brackets Themes](https://github.com/Brackets-Themes/TomorrowNight/blob/master/bracket-themes-icon-100x99.png) A Tomorrow Night Eighties Theme for Brackets
 =========
 
-[Chris Kempson's Tomorrow Night](https://github.com/chriskempson/tomorrow-theme) theme for Brackets.
+[Chris Kempson's Tomorrow Night Eighties](https://github.com/chriskempson/tomorrow-theme) theme, adapted for Brackets.
 
 This is itself based on Ryan Stewart's [Tomorrow Night theme for Brackets](https://github.com/Brackets-Themes/TomorrowNight).
 
