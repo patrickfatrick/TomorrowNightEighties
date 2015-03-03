@@ -17,3 +17,9 @@ For more themes and install instructions see the [Brackets Themes website](http:
 
 ## JavaScript
 ![Tomorrow Night Eighties Theme in a JS file](https://raw.githubusercontent.com/patrickfatrick/TomorrowNightEighties/master/tomorrow-night-eighties-js.tiff)
+
+## Code Folding
+![Tomorrow Night Eighties with Code Folding](https://raw.githubusercontent.com/patrickfatrick/TomorrowNightEighties/master/tomorrow-night-eighties-code-folding.tiff)
+
+## CSS Color Preview
+![Tomorrow Night Eighties with CSS Color Preview](https://raw.githubusercontent.com/patrickfatrick/TomorrowNightEighties/master/tomorrow-night-eighties-color-preview.tiff)
