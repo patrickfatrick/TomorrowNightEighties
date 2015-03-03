@@ -91,3 +91,48 @@
 #image-holder {
     color: #515151;
 }
+
+/* Code Folding */
+
+.CodeMirror-foldgutter {
+  width: 2em;
+}
+
+.CodeMirror-foldgutter-open,
+.CodeMirror-foldgutter-folded,
+.CodeMirror-foldgutter-blank {
+  text-align: center;
+  width: 100%;
+
+  &::after {
+    position: relative;
+    top: 0.0625em;
+    font-size: 1em;
+    color: rgba(255, 255, 255, 0.33);
+  }
+}
+
+.CodeMirror-foldmarker {
+  display: inline-block;
+  margin: 0 0.125em;
+  border-radius: 0.75em;
+  border: 0;
+  color: rgba(255, 255, 255, 0.66);
+  background-color: rgba(255, 255, 255, 0.16);
+
+  &::after {
+    content: '\2022\2022\2022';
+    position: relative;
+    top: -0.0625em;
+  }
+}
+
+/* CSS Color Preview */
+
+.ico-cssColorPreview {
+  display: block;
+  width: 0.5em;
+  height: 1.25em;
+  margin: 0;
+  border: 0;
+}

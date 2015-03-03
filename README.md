@@ -5,6 +5,8 @@
 
 This is itself based on Ryan Stewart's [Tomorrow Night theme for Brackets](https://github.com/Brackets-Themes/TomorrowNight).
 
+Also incorporates [Code Folding](https://github.com/thehogfather/brackets-code-folding) and [CSS Color Preview](https://github.com/cmgddd/Brackets-css-color-preview) styling taken from Dustin Dowell's [Neon theme](https://github.com/dustindowell22/neon-brackets-theme).
+
 For more themes and install instructions see the [Brackets Themes website](http://brackets-themes.github.io/)
 
 ## CSS 
