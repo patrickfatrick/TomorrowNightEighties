@@ -138,3 +138,10 @@
   margin: 0;
   border: 0;
 }
+
+/* Document Toolbar */
+
+.ext-documents .document.selected {
+    background-color: #2d2d2d;
+}
+
