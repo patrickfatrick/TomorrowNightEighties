@@ -13,16 +13,16 @@ Also incorporates [Code Folding](https://github.com/thehogfather/brackets-code-f
 For more themes and install instructions see the [Brackets Themes website](http://brackets-themes.github.io/)
 
 ## CSS 
-![Tomorrow Night Eighties Theme in a CSS file](https://raw.githubusercontent.com/patrickfatrick/TomorrowNightEighties/master/tomorrow-night-eighties-css.tiff)
+![Tomorrow Night Eighties Theme in a CSS file](https://raw.githubusercontent.com/patrickfatrick/TomorrowNightEighties/master/tomorrow-night-eighties-css.png)
 
 ## HTML
-![Tomorrow Night Eighties Theme in an HTML file](https://raw.githubusercontent.com/patrickfatrick/TomorrowNightEighties/master/tomorrow-night-eighties-html.tiff)
+![Tomorrow Night Eighties Theme in an HTML file](https://raw.githubusercontent.com/patrickfatrick/TomorrowNightEighties/master/tomorrow-night-eighties-html.png)
 
 ## JavaScript
-![Tomorrow Night Eighties Theme in a JS file](https://raw.githubusercontent.com/patrickfatrick/TomorrowNightEighties/master/tomorrow-night-eighties-js.tiff)
+![Tomorrow Night Eighties Theme in a JS file](https://raw.githubusercontent.com/patrickfatrick/TomorrowNightEighties/master/tomorrow-night-eighties-js.png)
 
 ## Code Folding
-![Tomorrow Night Eighties with Code Folding](https://raw.githubusercontent.com/patrickfatrick/TomorrowNightEighties/master/tomorrow-night-eighties-code-folding.tiff)
+![Tomorrow Night Eighties with Code Folding](https://raw.githubusercontent.com/patrickfatrick/TomorrowNightEighties/master/tomorrow-night-eighties-code-folding.png)
 
 ## CSS Color Preview
-![Tomorrow Night Eighties with CSS Color Preview](https://raw.githubusercontent.com/patrickfatrick/TomorrowNightEighties/master/tomorrow-night-eighties-color-preview.tiff)
+![Tomorrow Night Eighties with CSS Color Preview](https://raw.githubusercontent.com/patrickfatrick/TomorrowNightEighties/master/tomorrow-night-eighties-color-preview.png)
